@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AmalNamm
+-  Hi 👋, My name is Amal Nammouchi
 - 👀 I’m interested in AI and Energy Optimisation
 - 🌱 I’m currently learning LLMs
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 💞️ I’m looking to collaborate on Open Source Projects and International Development
 - 📫 How to reach me amalnammouchi.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I created my own language to write my diary at the age of 8 (so that my sister couldn't read it)
